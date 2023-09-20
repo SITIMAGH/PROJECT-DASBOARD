@@ -1,0 +1,5 @@
+# URL and Token
+
+url: https://nirmala.infoglobal.id/api/v3
+header:
+ Authorization: Basic YXBpa2V5OjNmMmQ2NTQ3MjFjMWI2YmZmMTcxODZlOTI0MTVlOGJhMDJiM2E3NjU4M2U2ODVhMTVkNzQzNWFiZDA0NmE2NzA=
